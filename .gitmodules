@@ -1,0 +1,8 @@
+[submodule "node-cache-async-lock"]
+	path = node-cache-async-lock
+	url = https://github.com/KhanhPham2411/node-cache-async-lock.git
+	branch = master
+[submodule "react-snap"]
+	path = react-snap
+	url = https://github.com/KhanhPham2411/react-snap.git
+	branch = master
