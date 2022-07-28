@@ -6,3 +6,7 @@
 	path = react-snap
 	url = https://github.com/KhanhPham2411/react-snap.git
 	branch = master
+[submodule "mongodb-common"]
+	path = mongodb-common
+	url = https://github.com/KhanhPham2411/mongodb-common.git
+	branch = master

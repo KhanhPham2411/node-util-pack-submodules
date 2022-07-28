@@ -3,6 +3,7 @@
   "scripts": {
     "install:node-cache-async-lock": "cd node-cache-async-lock && yarn install",
     "install:react-snap": "cd react-snap && yarn install",
+    "install:mongodb-common": "cd mongodb-common && yarn install",
     "postinstall": "run-p install:*"
   },
   "dependencies": {
