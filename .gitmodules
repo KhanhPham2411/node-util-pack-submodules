@@ -10,3 +10,7 @@
 	path = mongodb-common
 	url = https://github.com/KhanhPham2411/mongodb-common.git
 	branch = master
+[submodule "util-common"]
+	path = util-common
+	url = https://github.com/KhanhPham2411/util-common.git
+	branch = master
