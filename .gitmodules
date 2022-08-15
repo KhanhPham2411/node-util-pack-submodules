@@ -14,3 +14,7 @@
 	path = util-common
 	url = https://github.com/KhanhPham2411/util-common.git
 	branch = master
+[submodule "puppeteer"]
+	path = puppeteer
+	url = https://github.com/KhanhPham2411/puppeteer.git
+	branch = master
