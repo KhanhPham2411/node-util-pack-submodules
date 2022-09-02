@@ -5,7 +5,7 @@
     "install:react-snap": "cd react-snap && yarn install",
     "install:mongodb-common": "cd mongodb-common && yarn install",
     "install:puppeteer": "cd puppeteer && yarn install",
-    "postinstall": "run-p install:*"
+    "postinstall": "git submodule update --init --recursive && run-p install:*"
   },
   "devDependencies": {
     "@babel/core": "^7.15.0",
