@@ -8,5 +8,5 @@ git submodule add -b master https://github.com/KhanhPham2411/node-util-pack-subm
 
 # Update
 ```bash
-git submodule update --init --recursive && cd node-util-pack-submodules && yarn install
+cd node-util-pack-submodules && git submodule update --init --recursive &&  yarn install
 ```
